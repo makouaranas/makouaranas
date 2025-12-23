@@ -56,8 +56,6 @@ I am a passionate **Software Engineer** blending cutting-edge AI expertise with 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makouaranas&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF)](https://github.com/makouaranas)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=makouaranas&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-
 </div>
 
 ---
@@ -66,9 +64,8 @@ I am a passionate **Software Engineer** blending cutting-edge AI expertise with 
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Portfolio Project](https://www.makouaranas.site/)** | Crafting clean, usable web experiences and showcasing professional work. | Next.js, React |
-| **AI Agents (WIP)** | Building autonomous agents capable of reasoning and tool usage. | Python, LangChain |
-| **RPA Automation** | Streamlining enterprise workflows through intelligent bots. | Python, Selenium |
+| **[Portfolio Project](https://www.makouaranas.site/)** | Crafting clean, usable web experiences and showcasing professional work. | HTML, CSS, JS |
+
 
 ---
 
